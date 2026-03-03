@@ -43,3 +43,7 @@ Uninstalling is fairly easy, head to TSK folder and delete files / folders liste
 <img width="1282" height="752" alt="image" src="https://github.com/user-attachments/assets/4cef1499-a2cb-41d6-8497-b319a3f6746c" />
 <img width="1282" height="752" alt="image" src="https://github.com/user-attachments/assets/d01e9418-43d4-4972-a5c6-1747bd3e9ae1" />
 <img width="1282" height="752" alt="image" src="https://github.com/user-attachments/assets/49a39e03-50ea-4b08-b676-57f1384a59ac" />
+
+## HELP WANTED
+At the moment there are a lot of stuff that needs to be ironed out, that includes things like translation errors, fixing regexes, and everything else. Most importantly, we're trying to figure out how to extract the remaining textures for translation.  
+If you're interested in helping us, head over to Fanza English Discord as we have our own channel (`#tsk_en_translation`). Alternatively, you can DM `spadeshiro` on discord.
