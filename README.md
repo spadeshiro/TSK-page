@@ -1,9 +1,9 @@
-# Twinkle Star Knights English Fan-Translation Project
+# English Fan-Translation Project
 ![TSK English Fan-Translation Project Banner](https://github.com/user-attachments/assets/a5ff1718-7bd6-449e-9102-ca5a70fcc549)
 Contributors: SpadesHiro, Scopolamin, Ririvis
 
 ## About
-This project is an effort to translate as many things as possibly could to Twinkle Star Knights. As of current, we've already done a lot to the project, these include:
+This project is an effort to translate as many things as possibly could to Crusta. As of current, we've already done a lot to the project, these include:
 - Characters skills description
 - Partial texture translation
 - Story translation, including past to current events and characters bond story
