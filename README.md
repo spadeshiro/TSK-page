@@ -25,17 +25,17 @@ Uninstalling is fairly easy, head to TSK folder and delete files / folders liste
 - It's possible to extract while the game is running, to do so you only need to extract folder called `Translation` inside the `.zip` file and extract it to `Twinkle_StarknightsX\BepinEx`. Press `Alt + R` when done.
 
 ## Frequently Asked Question
-Q. Will this get me banned?
-A. While using BepinEx do violates literally every game's term of services, there's no ban ever recorded while using it simply for translating the game. That said, it's best to avoid using it if you fear of ever getting banned. Optionally, refrain from posting translated screenshot publicly.
+**Q)** Will this get me banned?
+**A)** While using BepinEx do violates literally every game's term of services, there's no ban ever recorded while using it simply for translating the game. That said, it's best to avoid using it if you fear of ever getting banned. Optionally, refrain from posting translated screenshot publicly.
 
-Q. BepinEX is unable to run as it keeps spitting error, what should I do?  
-A. Ensure that you have disabled antivirus / defender as it will consider BepinEX a threat. Alternatively, you can try whitelisting TSK folder.
+**Q)** BepinEX is unable to run as it keeps spitting error, what should I do?  
+**A)** Ensure that you have disabled antivirus / defender as it will consider BepinEX a threat. Alternatively, you can try whitelisting TSK folder.
 
-Q. Some texts doesn't seem to be translated.  
-A. Due to how AutoTranslate is set up, it may not be able to properly translate long texts. There are also some texture that can't be dumped for no reason.
+**Q)** Some texts doesn't seem to be translated.  
+**A)** Due to how AutoTranslate is set up, it may not be able to properly translate long texts. There are also some texture that can't be dumped for no reason.
 
-Q. I've seen errors in translation, where can I submit feedback?  
-A. You can head to Fanza English Discord and send the detail in where the mistakes are from over #tsk_en_translation
+**Q)** I've seen errors in translation, where can I submit feedback?  
+**A)** You can head to Fanza English Discord and send the detail in where the mistakes are from over #tsk_en_translation
 
 ## Screenshot
 <img width="1282" height="752" alt="image" src="https://github.com/user-attachments/assets/8943f621-daf7-41c4-8e17-7241bc717230" />
