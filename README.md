@@ -10,6 +10,12 @@ This project is an effort to translate as many things as possibly could to Crust
 - Basic UI translation
 - And many more...
 
+## Release & Download
+Check `#twinkle_update` or `#tsk_en_translation` for latest release.  
+Latest version: 2026-03-03  
+Changelog:
+- Fixed small issues with missing texture
+
 ## Installation
 1. Extract downloaded `.zip` file to `Twinkle_StarknightsX` folder, replace files when asked. Zipped file is available through [Fanza English Discord](https://discord.gg/zEYhVM6) usually under `#twinkle_update` channel. *You'll need KuMaSan role in order to view the channel.*  
    **(OPTIONAL)** Deleting `BepinEx` folder before extracting may help reduce total size. Files that are no longer used may persist and eventually will bloat the translation folder.
