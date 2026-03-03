@@ -38,11 +38,11 @@ Uninstalling is fairly easy, head to TSK folder and delete files / folders liste
 **A)** You can head to Fanza English Discord and send the detail in where the mistakes are from over #tsk_en_translation
 
 ## Screenshot
-![alt text or just leave it blank](https://github.com/user-attachments/assets/8943f621-daf7-41c4-8e17-7241bc717230)
-![alt text or just leave it blank](https://github.com/user-attachments/assets/c0bfd07d-292d-47f0-8881-d5fe41a432db)
-![alt text or just leave it blank](https://github.com/user-attachments/assets/4cef1499-a2cb-41d6-8497-b319a3f6746c)
-![alt text or just leave it blank](https://github.com/user-attachments/assets/d01e9418-43d4-4972-a5c6-1747bd3e9ae1)
-![alt text or just leave it blank](https://github.com/user-attachments/assets/49a39e03-50ea-4b08-b676-57f1384a59ac)
+![Home](https://github.com/user-attachments/assets/8943f621-daf7-41c4-8e17-7241bc717230)
+![Mission](https://github.com/user-attachments/assets/c0bfd07d-292d-47f0-8881-d5fe41a432db)
+![Star Knights List](https://github.com/user-attachments/assets/4cef1499-a2cb-41d6-8497-b319a3f6746c)
+![Skill Description](https://github.com/user-attachments/assets/d01e9418-43d4-4972-a5c6-1747bd3e9ae1)
+![Story](https://github.com/user-attachments/assets/49a39e03-50ea-4b08-b676-57f1384a59ac)
 
 ## HELP WANTED
 At the moment there are a lot of stuff that needs to be ironed out, that includes things like translation errors, fixing regexes, and everything else. Most importantly, we're trying to figure out how to extract the remaining textures for translation.  
