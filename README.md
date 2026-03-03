@@ -16,7 +16,7 @@ This project is an effort to translate as many things as possibly could to Crust
 2. Run game as you normally would. Launching the game the first time, either for initialization or after you booted your PC, will take a while.
 
 ## Uninstallation
-Uninstalling is fairly easy, head to TSK folder and delete files / folders listed below:
+Uninstalling is pretty straightforward, head to TSK folder and delete files / folders listed below:
 - BepinEX
 - winhttp.dll
 
