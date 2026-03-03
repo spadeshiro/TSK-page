@@ -1,6 +1,6 @@
 # Twinkle Star Knights English Fan-Translation Project
-<img width="1500" height="357" alt="TSKENbanner" src="https://github.com/user-attachments/assets/a5ff1718-7bd6-449e-9102-ca5a70fcc549" />
-**Contributors:** SpadesHiro, Scopolamin, Ririvis
+<img width="1500" height="357" alt="TSKENbanner" src="https://github.com/user-attachments/assets/a5ff1718-7bd6-449e-9102-ca5a70fcc549" />  
+Contributors: SpadesHiro, Scopolamin, Ririvis
 
 ## About
 This project is an effort to translate as many things as possibly could to Twinkle Star Knights. As of current, we've already done a lot to the project, these include:
