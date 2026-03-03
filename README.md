@@ -12,7 +12,7 @@ This project is an effort to translate as many things as possibly could to Crust
 
 ## Installation
 1. Extract downloaded `.zip` file to `Twinkle_StarknightsX` folder, replace files when asked. Zipped file is available through [Fanza English Discord](https://discord.gg/zEYhVM6) usually under `#twinkle_update` channel.  
-   **(OPTIONAL)** Deleting `BepinEx` folder may help reduce sizes. Files that are no longer used may persist and eventually will bloat the translation folder.
+   **(OPTIONAL)** Deleting `BepinEx` folder before extracting may help reduce total size. Files that are no longer used may persist and eventually will bloat the translation folder.
 2. Run game as you normally would. Launching the game the first time, either for initialization or after you booted your PC, will take a while.
 
 ## Uninstallation
