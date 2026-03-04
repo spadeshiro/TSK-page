@@ -39,7 +39,7 @@ Uninstalling is pretty straightforward, head to TSK folder and delete files / fo
    **A)** Ensure that you have disabled antivirus / defender as it will consider BepinEX a threat. Alternatively, you can try whitelisting TSK folder.
 
 3. **Q)** Some texts doesn't seem to be translated.  
-   **A)** Due to how AutoTranslate is set up, it may not be able to properly translate long texts. There are also some texture that can't be dumped for no reason.
+   **A)** Certain texts are yet to be translated and usually AutoTranslate should be able to automatically translate them albeit with less-than-ideal accuracy. Due to how AutoTranslate is set up, it may not be able to properly translate long texts. For other things such as textures, thus far we are unable to dump every single assets in the game, resulting in some PNGs unable to be translated.
 
 4. **Q)** I've seen errors in translation, where can I submit feedback?  
    **A)** You can head to Fanza English Discord and send the detail in where the mistakes are from over #tsk_en_translation
