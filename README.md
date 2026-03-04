@@ -32,7 +32,8 @@ Uninstalling is pretty straightforward, head to TSK folder and delete files / fo
 
 ## Frequently Asked Question
 1. **Q)** Will this get me banned?  
-   **A)** While using BepinEx does violate literally every game's term of services, thus far there's never any recorded ban while using it simply for translating the game. That said, it's best to avoid using it if you fear of ever getting banned. If you do decide to use the translation however, refrain from posting translated screenshot publicly.
+   **A)** While using BepinEx does violate literally every game's term of services, thus far there's never any recorded ban while using it simply for translating the game. That said, it's best to avoid using it if you fear of ever getting banned.  
+   If you do decide to use the translation however, refrain from posting translated screenshot publicly.
    
 2. **Q)** BepinEX is unable to run as it keeps spitting error, what should I do?  
    **A)** Ensure that you have disabled antivirus / defender as it will consider BepinEX a threat. Alternatively, you can try whitelisting TSK folder.
