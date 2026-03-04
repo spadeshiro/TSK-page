@@ -42,7 +42,7 @@ Uninstalling is pretty straightforward, head to TSK folder and delete files / fo
    **A)** Certain texts are yet to be translated and usually AutoTranslate should be able to automatically translate them albeit with less-than-ideal accuracy. Due to how AutoTranslate is set up, it may not be able to properly translate long texts. For other things such as textures, thus far we are unable to dump every single assets in the game, resulting in some PNGs unable to be translated.
 
 4. **Q)** I've seen errors in translation, where can I submit feedback?  
-   **A)** You can head to Fanza English Discord and send the detail in where the mistakes are from over #tsk_en_translation
+   **A)** You can head to Fanza English Discord and send the detail in where the mistakes are from over `#tsk_en_translation`.
 
 ## Screenshot
 ![Home](https://github.com/user-attachments/assets/8943f621-daf7-41c4-8e17-7241bc717230)
