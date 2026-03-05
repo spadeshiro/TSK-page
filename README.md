@@ -12,7 +12,7 @@ This project is an effort to translate as many things as possibly could to Crust
 
 ## Release & Download
 Check `#twinkle_update` or `#tsk_en_translation` @ [Fanza English Discord](https://discord.gg/zEYhVM6) for latest release. *You'll need KuMaSan role in order to view the channel.*  
-Latest version: 2026-03-03 (UTC+7)  
+Latest version: [2026-03-03 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1478330226978328731)  
 Changelog:
 - Fixed small issues with missing texture
 
