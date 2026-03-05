@@ -26,6 +26,9 @@ Uninstalling is pretty straightforward, head to TSK folder and delete files / fo
 - BepinEX
 - winhttp.dll
 
+## Known Issues
+- As of current, texture translation doesn't seem to work
+
 ## Tips
 - In case you want to temporarily disable translation, simply hit `Alt + T`. Same key can be used to re-enable
 - It's possible to extract while the game is running, to do so you only need to extract folder called `Translation` inside the `.zip` file and extract it to `Twinkle_StarknightsX\BepinEx`. Press `Alt + R` when done.
