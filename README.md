@@ -48,10 +48,16 @@ At the moment none of these works with AutoTranslator 5.5.1.
 2. **Q)** BepinEX is unable to run as it keeps spitting error, what should I do?  
    **A)** Ensure that you have disabled antivirus / defender as it will consider BepinEX a threat. Alternatively, you can try whitelisting TSK folder.
 
-3. **Q)** Some texts doesn't seem to be translated.  
+3. **Q)** My BepinEx log is stuck doing nothing for minutes!  
+   **A)** You may have accidentally clicked on the cmd window, try pressing enter.
+
+4. **Q)** I'm seeing a lot of errors from the log but everything appears to be working. Is that normal behavior?  
+   **A)** Yes, it's expected to do that due to some conflict with the zipped contents. This may have been fixed on later release, or not.
+
+5. **Q)** Some texts doesn't seem to be translated.  
    **A)** Certain texts are yet to be translated and usually AutoTranslate should be able to automatically translate them albeit with less-than-ideal accuracy. Due to how AutoTranslate is set up, it may not be able to properly translate long texts. For other things such as textures, thus far we are unable to dump every single assets in the game, resulting in some PNGs unable to be translated.
 
-4. **Q)** I've seen errors in translation, where can I submit feedback?  
+6. **Q)** I've seen errors in translation, where can I submit feedback?  
    **A)** You can head to Fanza English Discord and send the detail in where the mistakes are from over `#tsk_en_translation`.
 
 ## Screenshot
