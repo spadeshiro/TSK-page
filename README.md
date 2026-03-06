@@ -36,8 +36,9 @@ Uninstalling is pretty straightforward, head to TSK folder and delete files / fo
 - With AutoTranslator 5.5.1, you may experience Alt keybind not working
 
 ## Tips
-- In case you want to temporarily disable translation, simply hit `Alt + T`. Same key can be used to re-enable
-- It's possible to extract while the game is running, to do so you only need to extract folder called `Translation` inside the `.zip` file and extract it to `Twinkle_StarknightsX\BepinEx`. Press `Alt + R` when done.
+- ~~In case you want to temporarily disable translation, simply hit `Alt + T`. Same key can be used to re-enable~~
+- ~~It's possible to extract while the game is running, to do so you only need to extract folder called `Translation` inside the `.zip` file and extract it to `Twinkle_StarknightsX\BepinEx`. Press `Alt + R` when done.~~  
+At the moment none of these works with AutoTranslator 5.5.1.
 
 ## Frequently Asked Question
 1. **Q)** Will this get me banned?  
