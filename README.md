@@ -12,9 +12,11 @@ This project is an effort to translate as many things as possibly could to Crust
 
 ## Release & Download
 Check `#twinkle_update` or `#tsk_en_translation` @ [Fanza English Discord](https://discord.gg/zEYhVM6) for latest release. *You'll need KuMaSan role in order to view the channel.*  
-Latest version: [2026-03-03 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1478330226978328731)  
+Latest version: [2026-03-06 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1479417926988861581)  
 Changelog:
-- Fixed small issues with missing texture
+- Updated BepinEx and AutoTranslator to latest possible version to test texture translation
+- Swimsuit Almo stuff
+- Minor story revisions
 
 ## Installation
 1. Extract downloaded `.zip` file to `Twinkle_StarknightsX` folder, replace files when asked.  
@@ -24,10 +26,14 @@ Changelog:
 ## Uninstallation
 Uninstalling is pretty straightforward, head to TSK folder and delete files / folders listed below:
 - BepinEX
+- dotnet 
 - winhttp.dll
+- doorstop_config.ini
+- .doorstop_version
 
 ## Known Issues
-- As of current, texture translation doesn't seem to work
+- As of current, texture translation doesn't seem to work (still being tested)
+- With AutoTranslator 5.5.1, you may experience Alt keybind not working
 
 ## Tips
 - In case you want to temporarily disable translation, simply hit `Alt + T`. Same key can be used to re-enable
