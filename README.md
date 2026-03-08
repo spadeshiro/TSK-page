@@ -34,12 +34,11 @@ Uninstalling is pretty straightforward, head to TSK folder and delete files / fo
 
 ## Known Issues
 - As of current, texture translation doesn't seem to work (still being tested)
-- With AutoTranslator 5.5.1, you may experience Alt keybind not working
+- ~~With AutoTranslator 5.5.1, you may experience Alt keybind not working~~ Reverted to older version due to more issues than solutions
 
 ## Tips
-- ~~In case you want to temporarily disable translation, simply hit `Alt + T`. Same key can be used to re-enable~~
-- ~~It's possible to extract while the game is running, to do so you only need to extract folder called `Translation` inside the `.zip` file and extract it to `Twinkle_StarknightsX\BepinEx`. Press `Alt + R` when done.~~  
-At the moment none of these works with AutoTranslator 5.5.1.
+- In case you want to temporarily disable translation, simply hit `Alt + T`. Same key can be used to re-enable
+- It's possible to extract while the game is running, to do so you only need to extract folder called `Translation` inside the `.zip` file and extract it to `Twinkle_StarknightsX\BepinEx`. Press `Alt + R` when done.  
 
 ## Frequently Asked Question
 1. **Q)** Will this get me banned?  
