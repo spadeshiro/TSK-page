@@ -12,12 +12,10 @@ This project is an effort to translate as many things as possibly could to Crust
 
 ## Release & Download
 Check `#twinkle_update` or `#tsk_en_translation` @ [Fanza English Discord](https://discord.gg/zEYhVM6) for latest release. *You'll need KuMaSan role in order to view the channel.*  
-Latest version: [2026-03-06 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1479417926988861581)  
-Hotfix: [2026-03-08 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1480097833767010465)  
+Latest version: [2026-03-17 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1483414379557814384)  
 Changelog:
-- Updated BepinEx and AutoTranslator to latest possible version to test texture translation
-- Swimsuit Almo stuff
-- Minor story revisions
+- New event stuff
+- Minor revision
 
 ## Installation
 1. Extract downloaded `.zip` file to `Twinkle_StarknightsX` folder, replace files when asked.  
