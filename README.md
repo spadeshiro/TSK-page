@@ -12,11 +12,11 @@ This project is an effort to translate as many things as possibly could to Crust
 
 ## Release & Download
 Check `#twinkle_update` or `#tsk_en_translation` @ [Fanza English Discord](https://discord.gg/zEYhVM6) for latest release. *You'll need KuMaSan role in order to view the channel.*  
-Latest version: [2026-03-24 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1485974107282604143)
+Latest version: [2026-04-09 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1491640440854675588)
 Changelog:
-- Greatest collab event story of all time, 11/10, literally Dostoevsky and a half, an indisputable narrative revolution that will bring all who read it to tears
-- Kumasan event, White Day equipment
-- Ruru, NordVPN skill descriptions
+- Grace skill description
+- Main Story 2-14
+- Minor changes
 
 ## Installation
 1. Extract downloaded `.zip` file to `Twinkle_StarknightsX` folder, replace files when asked.  
