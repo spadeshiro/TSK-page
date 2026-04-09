@@ -32,8 +32,7 @@ Uninstalling is pretty straightforward, head to TSK folder and delete files / fo
 - .doorstop_version
 
 ## Known Issues
-- As of current, texture translation doesn't seem to work (still being tested)
-- ~~With AutoTranslator 5.5.1, you may experience Alt keybind not working~~ Reverted to older version due to more issues than solutions
+- Texture translation is absolutely broken, seems like Kumasan updated something behind the scene
 
 ## Tips
 - In case you want to temporarily disable translation, simply hit `Alt + T`. Same key can be used to re-enable
