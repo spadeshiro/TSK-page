@@ -12,11 +12,12 @@ This project is an effort to translate as many things as possibly could to Crust
 
 ## Release & Download
 Check `#twinkle_update` or `#tsk_en_translation` @ [Fanza English Discord](https://discord.gg/zEYhVM6) for latest release. *You'll need KuMaSan role in order to view the channel.*  
-Latest version: [2026-04-09 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1491640440854675588)
+Latest version: [2026-04-14 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1493520971821223977)
 Changelog:
-- Grace skill description
-- Main Story 2-14
-- Minor changes
+- Texture update, still doesn't work at the moment, please understand...
+- New event story
+- Sutera and Collab Luriel stuff
+- Event items and accessories
 
 ## Installation
 1. Extract downloaded `.zip` file to `Twinkle_StarknightsX` folder, replace files when asked.  
