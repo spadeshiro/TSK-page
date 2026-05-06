@@ -12,10 +12,10 @@ This project is an effort to translate as many things as possibly could to Crust
 
 ## Release & Download
 Check `#twinkle_update` or `#tsk_en_translation` @ [Fanza English Discord](https://discord.gg/zEYhVM6) for latest release. *You'll need KuMaSan role in order to view the channel.*  
-Latest version: [2026-05-01 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1499727312059502632)
+Latest version: [2026-05-06 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1501473125135683735)
 Changelog:
-- Sutera fix
-- Basic translation for Livre the Second and the smol idols
+- Just Livre2, Melel (small), Remika (small) skill/acc descriptions
+- minor UI additions
 
 ## Installation
 1. Extract downloaded `.zip` file to `Twinkle_StarknightsX` folder, replace files when asked.  
