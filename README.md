@@ -28,7 +28,7 @@ Uninstalling is pretty straightforward, head to TSK folder and delete files / fo
 - .doorstop_version
 
 ## Known Issues
-- Texture translation is absolutely broken, seems like Kumasan updated something behind the scene
+- Texture translation is known to be not working due to hashes difference. There's no way for me to fix it unless I find a solution to this.
 
 ## Tips
 - In case you want to temporarily disable translation, simply hit `Alt + T`. Same key can be used to re-enable
