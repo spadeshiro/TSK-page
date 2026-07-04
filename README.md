@@ -5,7 +5,6 @@ Main Contributors: SpadesHiro, Scopolamin, Ririvis
 ## About
 This project is an effort to translate as many things as possibly could to Crusta. As of current, we've already done a lot to the project, these include:
 - Characters skills description
-- Partial texture translation
 - Story translation, including past to current events and characters bond story
 - Basic UI translation
 - And many more...
