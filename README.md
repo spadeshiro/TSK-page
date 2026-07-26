@@ -63,3 +63,6 @@ Uninstalling is pretty straightforward, head to TSK folder and delete files / fo
 ## HELP WANTED
 At the moment there are a lot of stuff that needs to be ironed out, that includes things like translation errors, fixing regexes, and everything else. Most importantly, we're trying to figure out how to extract the remaining textures for translation.  
 If you're interested in helping us, head over to Fanza English Discord as we have our own channel (`#tsk_en_translation`). Alternatively, you can DM `spadeshiro` on discord.
+
+## Check out NTR Abyss 2.0, my other project!
+This project is aimed to translate Dot Abyss using AbyssMod as its base. If you're interested, [check the details here](https://github.com/spadeshiro/NTR-Abyss/)!
