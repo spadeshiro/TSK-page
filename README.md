@@ -11,7 +11,7 @@ This project is an effort to translate as many things as possibly could to Crust
 
 ## Release & Download
 Check `#twinkle_update` or `#tsk_en_translation` @ [Fanza English Discord](https://discord.gg/zEYhVM6) for latest release. *You'll need KuMaSan role in order to view the channel.*  
-Latest version: [2026-07-13 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1526176629519548546)
+Latest version: [2026-08-13 (UTC+7)](https://discord.com/channels/248515493156225025/1355085905127276627/1537370007594475640)
 
 ## Installation
 1. Extract downloaded `.zip` file to `Twinkle_StarknightsX` folder, replace files when asked.  
